@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Double cup");
+            Console.WriteLine("Bebrys");
             Console.ReadKey();
         }
     }
